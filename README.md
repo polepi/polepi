@@ -1,10 +1,11 @@
-Greetings, I am Pol!
-I am studying Computer Science at Epitech in Barcelona. If you need something from me, don't hesitate to email me.
+## 😃 About me
+
+🎓 Epitech Barcelona, Year 1 Student
+⚡ Currently working in C
 
 ## ✨ My Skills
 
-<details>
-<summary><b>UX/UI</b></summary>
+### UX/UI
 
 - Figma
 
@@ -12,10 +13,7 @@ I am studying Computer Science at Epitech in Barcelona. If you need something fr
 
 - Adobe Photoshop
 
-</details>
-
-<details>
-<summary><b>Programming</b></summary>
+### Programming
 
 - C
   
@@ -33,4 +31,6 @@ I am studying Computer Science at Epitech in Barcelona. If you need something fr
 
 - LUA
 
-</details>
+## 📫 Contact Info
+
+✉️ pol.canals@epitech.eu
