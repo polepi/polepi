@@ -1,7 +1,21 @@
-At the moment, I am studying Computer Science at Epitech in Barcelona. If you need something from me, don't hesitate to email me.
+Greetings, I am Pol!
+I am studying Computer Science at Epitech in Barcelona. If you need something from me, don't hesitate to email me.
+
+## ✨ My Skills
 
 <details>
-<summary><b>Programming Languages</b></summary>
+<summary><b>UX/UI</b></summary>
+
+- Figma
+
+- Adobe Illustrator
+
+- Adobe Photoshop
+
+</details>
+
+<details>
+<summary><b>Programming</b></summary>
 
 - C
   
@@ -17,13 +31,6 @@ At the moment, I am studying Computer Science at Epitech in Barcelona. If you ne
 
 - Python
 
-</details>
-
-<details>
-<summary><b>Programs</b></summary>
-
-- Adobe Illustrator
-
-- Adobe Photoshop
+- LUA
 
 </details>
