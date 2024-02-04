@@ -1,6 +1,7 @@
 ## 😃 About me
 
 🎓 Epitech Barcelona, Year 1 Student
+
 ⚡ Currently working in C
 
 ## ✨ My Skills
