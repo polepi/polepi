@@ -24,7 +24,7 @@
 
 - CSS
 
-- JS, Node.js
+- JS, jQuery and Node.js
 
 - PHP
 
