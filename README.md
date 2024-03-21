@@ -1,6 +1,6 @@
 ## 😃 About me
 
-🎓 Epitech Barcelona, Year 1 Student
+🎓 Epitech Barcelona, Year 1 Student in Bachelor + Master’s Degree in Computer Science
 
 ⚡ Currently working in C
 
@@ -8,30 +8,31 @@
 
 ### UX/UI
 
-- Figma
+- Figma (Advanced)
 
-- Adobe Illustrator
+- Adobe Illustrator (Intermediate)
 
-- Adobe Photoshop
+- Adobe Photoshop (Intermediate)
 
 ### Programming
 
-- C
+- C (Advanced)
   
-- C++
+- C++ (Basic)
 
-- HTML
+- HTML (Expert)
 
-- CSS
+- CSS (Advanced)
 
-- JS, jQuery and Node.js
+- JS, jQuery and Node.js (Intermediate)
 
-- PHP
+- PHP (Intermediate)
 
-- Python
+- Python (Advanced Beginner)
 
-- LUA
+- LUA/LUAU (Advanced)
 
 ## 📫 Contact Info
 
 ✉️ pol.canals@epitech.eu
+🔗 linkedin.com/in/pol-canals/
