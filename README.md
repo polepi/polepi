@@ -36,4 +36,4 @@
 
 ✉️ pol.canals@epitech.eu
 
-🔗 [Linkedin](linkedin.com/in/pol-canals/)
+🔗 [Linkedin](https://linkedin.com/in/pol-canals/)
