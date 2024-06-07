@@ -34,6 +34,6 @@
 
 ## 📫 Contact Info
 
-✉️ pol.canals@epitech.eu
+✉️ pol.canals-tolo@epitech.eu
 
 🔗 [Linkedin](https://linkedin.com/in/pol-canals/)
