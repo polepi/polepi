@@ -1,6 +1,6 @@
 ## 😃 About me
 
-🎓 Epitech Barcelona, Year 1 Student in Bachelor + Master’s Degree in Computer Science
+🎓 Epitech Barcelona, Year 2 Student in Bachelor + Master’s Degree in Computer Science
 
 ⚡ Currently working in C
 
@@ -8,29 +8,26 @@
 
 ### UX/UI
 
-- Figma (Advanced)
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-000?&logo=adobeillustrator)
+![adobephotoshop](https://img.shields.io/badge/-Adobe_Photoshop-000?&logo=adobephotoshop)
 
-- Adobe Illustrator (Intermediate)
+### Programming Languages
 
-- Adobe Photoshop (Intermediate)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=javascript)
+![NodeJS](https://img.shields.io/badge/-NodeJS-000?logo=Node.js)
+![ElectronJS](https://img.shields.io/badge/-ElectronJS-000?logo=Electron)
+![PHP](https://img.shields.io/badge/-PHP-000?logo=php)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-### Programming
+![C](https://img.shields.io/badge/-C-000?logo=c)
+![C++](https://img.shields.io/badge/-C++-000?logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-000?logo=python)
+![LUA/LUAU](https://img.shields.io/badge/-Lua-000?logo=lua)
+![Bash](https://img.shields.io/badge/-Shell-000?logo=gnu-bash)
 
-- C (Advanced)
-  
-- C++ (Basic)
-
-- HTML (Expert)
-
-- CSS (Advanced)
-
-- JS, jQuery and Node.js (Intermediate)
-
-- PHP (Intermediate)
-
-- Python (Advanced Beginner)
-
-- LUA/LUAU (Advanced)
 
 ## 📫 Contact Info
 
