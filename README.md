@@ -2,7 +2,9 @@
 
 🎓 Epitech Barcelona, Year 2 Student in Bachelor + Master’s Degree in Computer Science
 
-⚡ Currently working in C
+💼 AER for Epitech Barcelona
+
+⚡ Currently working in C, C++ & JS
 
 ## ✨ My Skills
 
