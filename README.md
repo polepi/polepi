@@ -14,13 +14,16 @@
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-000?&logo=adobeillustrator)
 ![adobephotoshop](https://img.shields.io/badge/-Adobe_Photoshop-000?&logo=adobephotoshop)
 
-### Programming Languages
+### Programming Languages & Frameworks
 
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=javascript)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?logo=Node.js)
 ![ElectronJS](https://img.shields.io/badge/-ElectronJS-000?logo=Electron)
+![VueJS](https://img.shields.io/badge/-ElectronJS-000?logo=vuedotjs)
+![Laravel](https://img.shields.io/badge/-ElectronJS-000?logo=laravel)
+
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![PHP](https://img.shields.io/badge/-PHP-000?logo=php)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
