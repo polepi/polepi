@@ -1,6 +1,6 @@
 ## 😃 About me
 
-🎓 Epitech Barcelona, Year 2 Student in Bachelor + Master’s Degree in Computer Science
+🎓 Epitech Barcelona, Year 3 Student in Bachelor + Master’s Degree in Computer Science
 
 💼 AER (Staff) for Epitech Barcelona
 
@@ -22,10 +22,11 @@
 ![PHP](https://img.shields.io/badge/-PHP-000?logo=php)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-![NodeJS](https://img.shields.io/badge/-NodeJS-000?logo=Node.js)
-![ElectronJS](https://img.shields.io/badge/-ElectronJS-000?logo=Electron)
-![VueJS](https://img.shields.io/badge/-VueJS-000?logo=vuedotjs)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?logo=laravel)
+![NodeJS](https://img.shields.io/badge/-NodeJS-000?logo=Node.js)
+![Svelte](https://img.shields.io/badge/-Svelte-000?logo=svelte)
+![VueJS](https://img.shields.io/badge/-VueJS-000?logo=vuedotjs)
+![ElectronJS](https://img.shields.io/badge/-ElectronJS-000?logo=Electron)
 
 ![C](https://img.shields.io/badge/-C-000?logo=c)
 ![C++](https://img.shields.io/badge/-C++-000?logo=c%2B%2B)
